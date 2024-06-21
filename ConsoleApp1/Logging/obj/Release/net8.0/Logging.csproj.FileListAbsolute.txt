@@ -1,0 +1,14 @@
+D:\TDD\ConsoleApp1\Logging\bin\Release\net8.0\Logging.exe
+D:\TDD\ConsoleApp1\Logging\bin\Release\net8.0\Logging.deps.json
+D:\TDD\ConsoleApp1\Logging\bin\Release\net8.0\Logging.runtimeconfig.json
+D:\TDD\ConsoleApp1\Logging\bin\Release\net8.0\Logging.dll
+D:\TDD\ConsoleApp1\Logging\bin\Release\net8.0\Logging.pdb
+D:\TDD\ConsoleApp1\Logging\obj\Release\net8.0\Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\TDD\ConsoleApp1\Logging\obj\Release\net8.0\Logging.AssemblyInfoInputs.cache
+D:\TDD\ConsoleApp1\Logging\obj\Release\net8.0\Logging.AssemblyInfo.cs
+D:\TDD\ConsoleApp1\Logging\obj\Release\net8.0\Logging.csproj.CoreCompileInputs.cache
+D:\TDD\ConsoleApp1\Logging\obj\Release\net8.0\Logging.dll
+D:\TDD\ConsoleApp1\Logging\obj\Release\net8.0\refint\Logging.dll
+D:\TDD\ConsoleApp1\Logging\obj\Release\net8.0\Logging.pdb
+D:\TDD\ConsoleApp1\Logging\obj\Release\net8.0\Logging.genruntimeconfig.cache
+D:\TDD\ConsoleApp1\Logging\obj\Release\net8.0\ref\Logging.dll

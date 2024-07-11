@@ -1,0 +1,15 @@
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\bin\Release\net8.0\Debugging.exe
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\bin\Release\net8.0\Debugging.deps.json
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\bin\Release\net8.0\Debugging.runtimeconfig.json
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\bin\Release\net8.0\Debugging.dll
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\bin\Release\net8.0\Debugging.pdb
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\Debugging.AssemblyInfoInputs.cache
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\Debugging.AssemblyInfo.cs
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\Debugging.csproj.CoreCompileInputs.cache
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\Debugging.sourcelink.json
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\Debugging.dll
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\refint\Debugging.dll
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\Debugging.pdb
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\Debugging.genruntimeconfig.cache
+D:\CShartpPracticeSessions\ConsoleApp1\Debugging\obj\Release\net8.0\ref\Debugging.dll

@@ -1,0 +1,12 @@
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\bin\Release\net8.0\ClassLibraryForUnitTesting.deps.json
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\bin\Release\net8.0\ClassLibraryForUnitTesting.dll
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\bin\Release\net8.0\ClassLibraryForUnitTesting.pdb
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\obj\Release\net8.0\ClassLibraryForUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\obj\Release\net8.0\ClassLibraryForUnitTesting.AssemblyInfoInputs.cache
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\obj\Release\net8.0\ClassLibraryForUnitTesting.AssemblyInfo.cs
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\obj\Release\net8.0\ClassLibraryForUnitTesting.csproj.CoreCompileInputs.cache
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\obj\Release\net8.0\ClassLibraryForUnitTesting.sourcelink.json
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\obj\Release\net8.0\ClassLibraryForUnitTesting.dll
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\obj\Release\net8.0\refint\ClassLibraryForUnitTesting.dll
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\obj\Release\net8.0\ClassLibraryForUnitTesting.pdb
+D:\CShartpPracticeSessions\ConsoleApp1\ClassLibraryForUnitTesting\obj\Release\net8.0\ref\ClassLibraryForUnitTesting.dll

@@ -3,3 +3,26 @@
 ################################################################################
 
 /ConsoleApp1/.vs/ConsoleApp1/FileContentIndex
+/ConsoleApp1/.vs/ConsoleApp1
+/ConsoleApp1/AccessingSettings/obj/Debug/net8.0
+/ConsoleApp1/PacktLibraryNetStandard2/bin/Debug/netstandard2.0
+/ConsoleApp1/PacktLibraryNetStandard2/obj/Debug/netstandard2.0
+/ConsoleApp1/PeopleApp/bin/Debug/net8.0
+/ConsoleApp1/PeopleApp/obj/Debug/net8.0
+.vscode/
+.vs/
+*.exe
+*.dll
+*.pdb
+*.db
+*.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/

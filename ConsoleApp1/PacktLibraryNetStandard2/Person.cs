@@ -2,6 +2,7 @@
 namespace PacktLibraryNetStandard2;
 public class Person : Object
 {
+    public static List<Person> Children = new();
     // Property
     public string Orign
     {
@@ -13,10 +14,41 @@ public class Person : Object
     #region Fields: Data or state for this person
     public string? Name; // ? means it can be null
     public DateTimeOffset Born;
-    public WondersOfTheEncientWorld FavoriteAncientWonder;
     public WondersOfTheEncientWorld BucketList;
     public readonly string HomePlanet = "Earth";
     public readonly DateTime Instantiated;
+
+    private WondersOfTheEncientWorld _favoriteWonder;
+    public WondersOfTheEncientWorld FovoriteWonder
+    {
+        get { return _favoriteWonder; }
+        set
+        {
+            string wonderName = value.ToString();
+            if (wonderName.Contains(","))
+            {
+                throw new FormatException("It contains comma, check madi");
+            }
+            if (!Enum.IsDefined(typeof(WondersOfTheEncientWorld), value))
+            {
+                throw new FormatException("Bro Multiples values are not allowed");
+            }
+            Console.WriteLine("Done Bro, value is changed");
+            _favoriteWonder = value;
+        }
+    }
+
+    public Person this[int index]
+    {
+        get
+        {
+            return Children[index];
+        }
+        set
+        {
+            Children[index] = value;
+        }
+    }
 
     #endregion
     // Default Constructor
@@ -57,12 +89,12 @@ out DateTimeOffset dob)
         name = Name;
         dob = Born;
     }
-    public void Deconstruct(out string? name,
+/*    public void Deconstruct(out string? name,
     out DateTimeOffset dob,
     out WondersOfTheEncientWorld fav)
     {
         name = Name;
         dob = Born;
         fav = FavoriteAncientWonder;
-    }
+    }*/
 }

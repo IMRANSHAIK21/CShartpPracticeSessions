@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PacktLibraryNetStandard2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f74c24cdd9dd0bc86626b46b45a977440ab688")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97417260230905dde8848f857a0c890cf7fccafd")]
 [assembly: System.Reflection.AssemblyProductAttribute("PacktLibraryNetStandard2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PacktLibraryNetStandard2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

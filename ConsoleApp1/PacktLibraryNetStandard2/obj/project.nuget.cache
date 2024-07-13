@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Kxsd3MeNoxQ=",
+  "dgSpecHash": "8PebDy1mwYCmsBorVyBVCUVMT56L8h/TF/9qbgrWc1azXqIlnpKMFEmLmz+S8eboZoDsb0AX5CE1dt1+3zd6Rg==",
   "success": true,
-  "projectFilePath": "D:\\CShartpPracticeSessions\\ConsoleApp1\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
+  "projectFilePath": "D:\\C#\\CShartpPracticeSessions\\ConsoleApp1\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\z004j6jj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\z004j6jj\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

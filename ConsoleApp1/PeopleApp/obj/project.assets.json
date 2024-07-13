@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\z004j6jj\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CShartpPracticeSessions\\ConsoleApp1\\PeopleApp\\PeopleApp.csproj",
+      "projectUniqueName": "D:\\C#\\CShartpPracticeSessions\\ConsoleApp1\\PeopleApp\\PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "D:\\CShartpPracticeSessions\\ConsoleApp1\\PeopleApp\\PeopleApp.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\CShartpPracticeSessions\\ConsoleApp1\\PeopleApp\\obj\\",
+      "projectPath": "D:\\C#\\CShartpPracticeSessions\\ConsoleApp1\\PeopleApp\\PeopleApp.csproj",
+      "packagesPath": "C:\\Users\\z004j6jj\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\CShartpPracticeSessions\\ConsoleApp1\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\z004j6jj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CShartpPracticeSessions\\ConsoleApp1\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj": {
-              "projectPath": "D:\\CShartpPracticeSessions\\ConsoleApp1\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj"
+            "D:\\C#\\CShartpPracticeSessions\\ConsoleApp1\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj": {
+              "projectPath": "D:\\C#\\CShartpPracticeSessions\\ConsoleApp1\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj"
             }
           }
         }
@@ -95,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

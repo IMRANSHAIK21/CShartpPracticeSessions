@@ -1,8 +1,9 @@
 ﻿
 namespace PacktLibraryNetStandard2;
+
 public class Person : Object
 {
-    public static List<Person> Children = new();
+    public List<Person> Children = new();
     // Property
     public string Orign
     {
@@ -49,7 +50,14 @@ public class Person : Object
             Children[index] = value;
         }
     }
-
+    public Person this[string name]
+    {
+        get
+        {
+            return Children.Find(p => p.Name == name);
+        }
+    }
+   
     #endregion
     // Default Constructor
     public Person()

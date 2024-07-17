@@ -390,3 +390,19 @@ FodyWeavers.xsd
 # SINEC PNI GITIGNORE RULES
 !**/README.md
 **/#Build
+/ConsoleApp1/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfo.cs
+/ConsoleApp1/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+/ConsoleApp1/Logging/obj/Debug/net8.0/Logging.AssemblyInfoInputs.cache
+/ConsoleApp1/Logging/obj/Debug/net8.0/Logging.AssemblyInfo.cs
+/ConsoleApp1/PeopleApp/obj/Debug/net8.0/PeopleApp.AssemblyInfoInputs.cache
+/ConsoleApp1/PeopleApp/obj/Debug/net8.0/PeopleApp.AssemblyInfo.cs
+/ConsoleApp1/PeopleApp/obj/Debug/net8.0/PeopleApp.csproj.AssemblyReference.cache
+/ConsoleApp1/Debugging/obj/Debug/net8.0/Debugging.AssemblyInfoInputs.cache
+/ConsoleApp1/Debugging/obj/Debug/net8.0/Debugging.AssemblyInfo.cs
+/ConsoleApp1/ClassLibraryUnitTests/obj/Debug/net8.0/ClassLibraryUnitTests.csproj.AssemblyReference.cache
+/ConsoleApp1/ClassLibraryUnitTests/obj/Debug/net8.0/ClassLibraryUnitTests.AssemblyInfo.cs
+/ConsoleApp1/ClassLibraryUnitTests/obj/Debug/net8.0/ClassLibraryUnitTests.AssemblyInfoInputs.cache
+/ConsoleApp1/ClassLibraryForUnitTesting/obj/Debug/net8.0/ClassLibraryForUnitTesting.AssemblyInfoInputs.cache
+/ConsoleApp1/ClassLibraryForUnitTesting/obj/Debug/net8.0/ClassLibraryForUnitTesting.AssemblyInfo.cs
+/ConsoleApp1/AccessingSettings/obj/Debug/net8.0/AccessingSettings.AssemblyInfoInputs.cache
+/ConsoleApp1/AccessingSettings/obj/Debug/net8.0/AccessingSettings.AssemblyInfo.cs

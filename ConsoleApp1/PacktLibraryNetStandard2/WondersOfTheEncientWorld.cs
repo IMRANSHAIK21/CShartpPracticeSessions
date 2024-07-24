@@ -1,4 +1,4 @@
-﻿
+﻿/*
 namespace PacktLibraryNetStandard2
 {
     public  enum WondersOfTheEncientWorld :byte
@@ -14,11 +14,11 @@ namespace PacktLibraryNetStandard2
 
 
     }
-}
+}*/
 
 
 
-/*namespace PacktLibraryNetStandard2
+namespace PacktLibraryNetStandard2
 {
     [Flags]
     public enum WondersOfTheEncientWorld : byte
@@ -33,5 +33,5 @@ namespace PacktLibraryNetStandard2
         LighthouseOfAlexandria = 0b_0100_0000 // i.e. 64
 
 
-   }
-}*/
+    }
+}

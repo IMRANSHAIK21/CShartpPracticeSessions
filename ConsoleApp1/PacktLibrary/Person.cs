@@ -1,5 +1,8 @@
-﻿namespace PacktLibrary;
-public class Person
+﻿using System.Security.Cryptography;
+using System;
+
+namespace PacktLibrary;
+public class Person //: IComparable<Person?>
 {
     #region Properties
     public string? Name { get; set; }
@@ -84,8 +87,6 @@ public class Person
     {
         return input.Length; // It doesn't matter what the method do
     }
-    // Defining delegate
-    delegate int DelgateWithMatchingSignature(string s);
     public Person ProcreateWith(Person partner)
     {
        return Procreate(this, partner);
@@ -101,4 +102,61 @@ public class Person
         return Procreate(a,b);
     }
 
+    // Event handlers
+    public event EventHandler? Shout;
+    public int AngryLevel;
+
+    public void Poke()
+    {
+        AngryLevel++;
+        if (AngryLevel < 3) return;
+        if (Shout is not null)
+        {
+            Shout(this, EventArgs.Empty);
+        }
+    }
+
+    /*public int CompareTo(Person? other)
+    {
+        int position;
+        if (other is not null)
+        {
+            if ((Name is not null) && (other.Name is not null))
+            {
+                position = -(Name.CompareTo(other.Name));
+            }
+            else if ((Name is not null) && (other.Name is null))
+            {
+                position = 1; // this Person precedes other Person. 
+            }
+            else if ((Name is null) && (other.Name is not null))
+            {
+                position = -1;
+            }
+            else
+            {
+                position = 0; // this and other are at same position. 
+            }
+        }
+        else if (other is null)
+        {
+            position = -1; // this Person precedes other Person. 
+        }
+        else
+        {
+            position = 0; // this and other are at same position. 
+        }
+        return position;
+    }*/
+    // for decending order
+/*    public int CompareTo(Person? other)
+    {
+        if (other == null) return 1;
+
+        if (this.Name == null && other?.Name == null) return 0;
+        if (this.Name == null) return -1;
+        if (other?.Name == null) return 1;
+
+        return string.Compare(this.Name, other.Name, StringComparison.OrdinalIgnoreCase);
+    }*/
 }

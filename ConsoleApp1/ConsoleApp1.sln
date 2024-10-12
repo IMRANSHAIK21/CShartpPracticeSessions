@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullHandling", "NullHandlin
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter07", "Chapter07", "{122943F2-2B5D-49D8-ADA0-F12714CAE885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssembliesAndNamespaces", "AssembliesAndNamespaces\AssembliesAndNamespaces.csproj", "{69B6206C-00E1-42AC-83C3-05150294D511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssembliesAndNamespaces", "AssembliesAndNamespaces\AssembliesAndNamespaces.csproj", "{69B6206C-00E1-42AC-83C3-05150294D511}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{98C7B95B-B749-4A9C-88EB-E8667FE3CAF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{98C7B95B-B749-4A9C-88EB-E8667FE3CAF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetEverywhere", "DotNetEverywhere\DotNetEverywhere.csproj", "{843908F3-5D2F-4B2A-A8E4-CD54D988F231}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,10 @@ Global
 		{98C7B95B-B749-4A9C-88EB-E8667FE3CAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98C7B95B-B749-4A9C-88EB-E8667FE3CAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98C7B95B-B749-4A9C-88EB-E8667FE3CAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843908F3-5D2F-4B2A-A8E4-CD54D988F231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843908F3-5D2F-4B2A-A8E4-CD54D988F231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843908F3-5D2F-4B2A-A8E4-CD54D988F231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843908F3-5D2F-4B2A-A8E4-CD54D988F231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +107,7 @@ Global
 		{9ED402DD-DC3F-4316-8809-FDF376596DE3} = {12B3E4C8-9B5D-4324-A5F8-FBD1BB5AED9B}
 		{69B6206C-00E1-42AC-83C3-05150294D511} = {122943F2-2B5D-49D8-ADA0-F12714CAE885}
 		{98C7B95B-B749-4A9C-88EB-E8667FE3CAF1} = {122943F2-2B5D-49D8-ADA0-F12714CAE885}
+		{843908F3-5D2F-4B2A-A8E4-CD54D988F231} = {122943F2-2B5D-49D8-ADA0-F12714CAE885}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {89E76BBA-B2BB-463B-9EF2-78DD31B99AA0}
